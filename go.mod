@@ -1,4 +1,4 @@
-module github.com/devigned/signalr-go
+module github.com/Kornfuzion/signalr-go
 
 go 1.12
 
